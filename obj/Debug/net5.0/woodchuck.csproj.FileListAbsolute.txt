@@ -1,0 +1,16 @@
+E:\code\vs\woodchuck\bin\Debug\net5.0\woodchuck.exe
+E:\code\vs\woodchuck\bin\Debug\net5.0\woodchuck.deps.json
+E:\code\vs\woodchuck\bin\Debug\net5.0\woodchuck.runtimeconfig.json
+E:\code\vs\woodchuck\bin\Debug\net5.0\woodchuck.runtimeconfig.dev.json
+E:\code\vs\woodchuck\bin\Debug\net5.0\woodchuck.dll
+E:\code\vs\woodchuck\bin\Debug\net5.0\ref\woodchuck.dll
+E:\code\vs\woodchuck\bin\Debug\net5.0\woodchuck.pdb
+E:\code\vs\woodchuck\obj\Debug\net5.0\woodchuck.csprojAssemblyReference.cache
+E:\code\vs\woodchuck\obj\Debug\net5.0\woodchuck.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\vs\woodchuck\obj\Debug\net5.0\woodchuck.AssemblyInfoInputs.cache
+E:\code\vs\woodchuck\obj\Debug\net5.0\woodchuck.AssemblyInfo.cs
+E:\code\vs\woodchuck\obj\Debug\net5.0\woodchuck.csproj.CoreCompileInputs.cache
+E:\code\vs\woodchuck\obj\Debug\net5.0\woodchuck.dll
+E:\code\vs\woodchuck\obj\Debug\net5.0\ref\woodchuck.dll
+E:\code\vs\woodchuck\obj\Debug\net5.0\woodchuck.pdb
+E:\code\vs\woodchuck\obj\Debug\net5.0\woodchuck.genruntimeconfig.cache

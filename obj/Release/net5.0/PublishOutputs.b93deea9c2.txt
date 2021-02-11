@@ -1,0 +1,5 @@
+E:\code\vs\woodchuck\bin\Release\net5.0\publish\woodchuck.exe
+E:\code\vs\woodchuck\bin\Release\net5.0\publish\woodchuck.dll
+E:\code\vs\woodchuck\bin\Release\net5.0\publish\woodchuck.deps.json
+E:\code\vs\woodchuck\bin\Release\net5.0\publish\woodchuck.runtimeconfig.json
+E:\code\vs\woodchuck\bin\Release\net5.0\publish\woodchuck.pdb
